@@ -1,17 +1,24 @@
+body {
+    margin: 0 auto;
+}
+
 header {
     float: left;
     width: 100%;
-    background-color: #F6F6F6;
+    background-color: #E9E8E8;
+    z-index: 1000;
 }
 .container {
-    padding-top: 0px;
+    padding-top: 0px 10px;
     height: 124px;
     background-color: transparent;
+    max-width: 1000px;
+    margin: 0 auto;
 }
 .image {
     float: left;
     background: no-repeat;
-    margin: -47px 81px;
+    margin: -40px -50px;
 }
 h1 {
     text-indent: -99999px;
@@ -20,38 +27,40 @@ h1 {
     height: 20px;
     width: 20px;
     float: right;
-    margin: -76px 230px;
+    margin: -65px 0px;
 }
 .media1 {
     height: 20px;
     width: 20px;
     float: right;
-    margin: -76px 200px;
+    margin: -65px -30px;
 }
 .media2 {
     height: 20px;
     width: 20px;
     float: right;
-    margin: -76px 170px;
+    margin: -65px -60px;
 }
 .media3 {
     height: 20px;
     width: 20px;
     float: right;
-    margin: -76px 140px;
+    margin: -65px -90px;
 }
 .media4 {
     height: 20px;
     width: 20px;
     float: right;
-    margin: -76px 110px;
+    margin: -65px -120px;
 }
 .media5 {
     height: 20px;
     width: 20px;
     float: right;
-    margin: -76px 80px;
+    margin: -65px -150px;
 }
 .main {
     width: 1250px;
+    margin: 0 auto;
+    max-width: 2500px;
  }
