@@ -1,0 +1,9 @@
+.image {
+    float: left;
+    background: no-repeat;
+    padding-top: 0px;
+    margin: auto 10px;
+}
+h1 {
+    text-indent: -9999px;
+}
