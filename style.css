@@ -1,9 +1,57 @@
+header {
+    float: left;
+    width: 100%;
+    background-color: #F6F6F6;
+}
+.container {
+    padding-top: 0px;
+    height: 124px;
+    background-color: transparent;
+}
 .image {
     float: left;
     background: no-repeat;
-    padding-top: 0px;
-    margin: auto 10px;
+    margin: -47px 81px;
 }
 h1 {
-    text-indent: -9999px;
+    text-indent: -99999px;
 }
+.media {
+    height: 20px;
+    width: 20px;
+    float: right;
+    margin: -76px 230px;
+}
+.media1 {
+    height: 20px;
+    width: 20px;
+    float: right;
+    margin: -76px 200px;
+}
+.media2 {
+    height: 20px;
+    width: 20px;
+    float: right;
+    margin: -76px 170px;
+}
+.media3 {
+    height: 20px;
+    width: 20px;
+    float: right;
+    margin: -76px 140px;
+}
+.media4 {
+    height: 20px;
+    width: 20px;
+    float: right;
+    margin: -76px 110px;
+}
+.media5 {
+    height: 20px;
+    width: 20px;
+    float: right;
+    margin: -76px 80px;
+}
+.main {
+    width: 1250px;
+ }
