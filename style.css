@@ -12,7 +12,7 @@ header {
     padding-top: 0px 10px;
     height: 124px;
     background-color: transparent;
-    max-width: 1000px;
+    width: 1000px;
     margin: 0 auto;
 }
 .image {
@@ -27,40 +27,65 @@ h1 {
     height: 20px;
     width: 20px;
     float: right;
-    margin: -65px 0px;
+    margin: -65px 80px;
 }
 .media1 {
     height: 20px;
     width: 20px;
     float: right;
-    margin: -65px -30px;
+    margin: -65px 50px;
 }
 .media2 {
     height: 20px;
     width: 20px;
     float: right;
-    margin: -65px -60px;
+    margin: -65px 20px;
 }
 .media3 {
     height: 20px;
     width: 20px;
     float: right;
-    margin: -65px -90px;
+    margin: -65px -10px;
 }
 .media4 {
     height: 20px;
     width: 20px;
     float: right;
-    margin: -65px -120px;
+    margin: -65px -40px;
 }
 .media5 {
     height: 20px;
     width: 20px;
     float: right;
-    margin: -65px -150px;
+    margin: -65px -70px;
 }
 .main {
     width: 1250px;
     margin: 0 auto;
-    max-width: 2500px;
+    max-width: 1500px;
+ }
+ h2 {
+     color: #FFB600;
+     font-size: 48px;
+     font-weight: bold;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ .search {
+    background-color:#FFFFFF;
+    border-color: ;
+    border-radius: 3px;
+    border-style: solid;
+    font-weight: bold;
+    font-size: 16px;
+    height: 18px;
+    float: right;
+    margin: -12px -27px;
+    padding: 8px 10px;
+    width: 200px;
+ }
+ .bar {
+    float: right;
+    height: 40px;
+    margin: -14px -215px;
+    width: 40px;
  }
