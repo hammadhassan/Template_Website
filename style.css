@@ -1,5 +1,10 @@
+@font-face {
+    font-family: Roboto-Regular;
+    src: url(font/Roboto-Regular.ttf);
+}    
 body {
     margin: 0 auto;
+    font-family: roboto-regular;
 }
 
 header {
@@ -88,4 +93,10 @@ h1 {
     height: 40px;
     margin: -14px -215px;
     width: 40px;
+ }
+ .home {
+     float: left;
+     width: 10px;
+     border-bottom-color: #0088dd;
+     margin: auto 200px;
  }
