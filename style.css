@@ -93,7 +93,7 @@ h1 {
     margin: -14px -215px;
     width: 40px;
  }
- .home {
+ /*.home {
      float: left;
      width: 10px;
      border-bottom-color: #0088dd;
@@ -103,4 +103,23 @@ h1 {
     float: left;
     margin: auto -139px;
     width: 50%;
+}*/
+ul {
+    list-style-type: none;
+    margin: 0 20px;
+    padding: 0;
+    display: inline;
+}
+li {
+    display: inline;
+    width: 60px;
+    margin: 0 20px;
+
+}
+.menu {
+    padding: 0px;
+    margin: 10px 134px;
+}
+li :hover {
+         border-bottom-color: #0088dd;
 }
