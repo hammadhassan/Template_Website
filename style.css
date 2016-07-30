@@ -97,8 +97,11 @@ h1 {
      float: left;
      width: 10px;
      border-bottom-color: #0088dd;
-     margin: auto 200px;
+     margin: auto 200px;     
  }
+ span :hover {
+         border-bottom-color: #0088dd;
+}
  .company {
     float: left;
     margin: auto -139px;
@@ -114,12 +117,11 @@ li {
     display: inline;
     width: 60px;
     margin: 0 20px;
-
 }
 .menu {
     padding: 0px;
     margin: 10px 134px;
 }
 li :hover {
-         border-bottom-color: #0088dd;
+    border-bottom-color: #0088dd;
 }
