@@ -65,9 +65,10 @@ h1 {
     margin: -65px -70px;
 }
 .main {
-    width: 1250px;
     margin: 0 auto;
-    max-width: 1500px;
+    align-self: center;
+    width: 1905px;
+    float: center;
  }
  h2 {
      color: #FFB600;
