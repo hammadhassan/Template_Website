@@ -14,7 +14,6 @@ header {
     z-index: 1000;
 }
 .container {
-    padding-top: 0px 10px;
     height: 124px;
     background-color: transparent;
     width: 1000px;
@@ -67,8 +66,9 @@ h1 {
 .main {
     margin: 0 auto;
     align-self: center;
-    width: 1905px;
+    width: 1903px;
     float: center;
+    padding: 0 auto;
  }
  h2 {
      color: #FFB600;
