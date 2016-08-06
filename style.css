@@ -145,7 +145,13 @@ li :hover {
     border-bottom-color: #0088dd;
 }
 .container2 {
-    background-color: transparent;
+    background-color: #E9E8E8;
     width: 100%;
     margin: 0 auto;
     padding: 0px;
+}
+.second {
+    margin: -4px auto;
+    width: 100%;
+    align-content: center;
+}
