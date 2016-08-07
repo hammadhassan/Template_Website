@@ -138,7 +138,6 @@ ul {
 }
 li {
     display: inline;
-    width: 60px;
     margin: 0 20px;
 }
 .menu {
@@ -151,11 +150,39 @@ li :hover {
 .container2 {
     background-color: #E9E8E8;
     width: 100%;
-    margin: 0 auto;
-    padding: 0px;
+    margin: auto;
+    max-width: 1300px;
 }
 .second {
-    margin: -4px auto;
+    margin-top: -4px;
     width: 100%;
     align-content: center;
+    max-width: 1500px;
+    background-color: #E9E8E8;
+}
+.iphone {
+    float: left;
+    margin-top: -4px; 
+}
+.company {
+    float: right;
+    margin: 0 auto;
+    height: 572px;
+    width: 600px;
+}
+h4 {
+    font-size: 50px;
+    font-weight: bold;
+    color: cornflowerblue;
+}
+p {
+    color: silver;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: -59px;
+}
+span {
+    font-size: 28px;
+    font-weight: bold;
+    font-style: oblique;
 }
