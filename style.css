@@ -218,3 +218,9 @@ i {
     position: absolute;
     margin: 558px auto;
 }
+.wrapper {
+    background-color: #fff;
+    height: auto;
+    margin: 0 auto;
+    width: 100%;
+}
